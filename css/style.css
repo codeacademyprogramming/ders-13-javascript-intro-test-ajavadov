@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.to-do {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #e67e22;
+  height: 40vh;
+  min-width: 300px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+}
