@@ -1,0 +1,22 @@
+Mesele 1:  
+   Uch parcanin(terefin) uzunlugunu daxil etmekle bu parcalardan 3bucaq qurma sertinin mumkunluyunun yoxlanilmasini temin eden alqoritmin qurulmasi  
+   Girish deyerleri: 3 terefin uzunlugunu istifadeciden sorusmaq  
+   netice: metn ile mesaj cixarmaq ekrana olar ya olmaz,ya da bu ucbucaq berabertereflidir  
+
+Mesele 2:  
+   Istifadeciden Heftenin Gununun nomresini daxil etmesini teleb etmekle  
+   daxil edien gune uygun Heftenin Gununun adini yazan algoritm yazmali  
+   Misal: 2-Cersenbe axsami,8- bele gun yoxdur  
+
+
+Mesele 3:   
+   Istifadeciden Fesil adini daxil etmesi ile, Fesile daxil olan aylarin adini gosteren program yazmali    
+   Input: Yay   
+   Outout:  
+   Iyun  
+   Iyul  
+   Avqust  
+
+eyni proyektde yazsaz meselelerin hamisini daha meqsedeuygundur 
+yeni js papkasinda her meseleni ayri js faylinda yazmaq
+ama eyni html documentde cagirmaq serti ile(3 script fayli da)
